@@ -1,0 +1,52 @@
+body{
+    background-color: lightgoldenrodyellow;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #ffffff;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 24px 10px;
+}
+.navbar-item a{
+    color: #808080;
+    text-decoration: none;
+}
+.navbar-item:hover{
+    background-color: #f1f1f1;
+}
+.navbar-item:hover a{
+    color: #00bfff;
+}
+.fixed2{
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border: 1px solid gold;
+    border-radius: 50px;
+    position: fixed;
+    right: 50px;
+    bottom: 80px;
+    line-height: 45px;
+    background-image: url("../rasmlar/abc.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.fixed2:focus{
+    width: 450px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: white;
+    background-image: url("../rasmlar/images.jfif ");
+    background-size: 100%;
+}

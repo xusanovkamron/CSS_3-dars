@@ -1,0 +1,84 @@
+body{
+    background-color: #2a4672;
+}
+.wrap{
+    height: 1200px;
+    margin: 10px auto;
+    background-color: #2a4672;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn1{
+    display: inline-block;
+    padding: 18px 26px;
+    text-decoration: none;
+    color: darkred;
+    background-color: #2a4672;
+    border-radius: 8px;
+    border: 2px solid;
+    text-align: center;
+    width: 150px;
+
+}
+.btn2{
+    display: inline-block;
+    padding: 18px 26px;
+    text-decoration: none;
+    color: white;
+    border-radius: 24px;
+    transition: all 0.5s ease-in;
+    border: 2px solid darkseagreen;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+    background-image: url("../rasmlar/photo.png");
+
+}
+.btn3{
+    display: inline-block;
+    padding: 18px 26px;
+    text-decoration: none;
+    color: white;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    transition: all 0.5s ease-in;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+}
+.btn4{
+    display: inline-block;
+    padding: 18px 26px;
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    transition: all 0.5s ease-in;
+    text-align: center;
+    width: 150px;
+}
+.btn5{
+    display: inline-block;
+    padding: 18px 26px;
+    text-decoration: none;
+    color: blueviolet;
+    background-color:#2a4672 ;
+    transition: all 0.5s ease-in;
+    text-align: center;
+    width: 150px;
+    border: 2px solid blueviolet;
+    margin-left: 50px;
+}
+.btn6{
+    display: inline-block;
+    padding: 18px 26px;
+    text-decoration: none;
+    color: green;
+    border-radius: 24px;
+    transition: all 0.5s ease-in;
+    border: 2px solid ;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+}
+
